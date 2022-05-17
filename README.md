@@ -1,185 +1,148 @@
-Dan Church
+Ellon Mordecai
 ==========
 
-Computer Software Professional
+Junior Fullstack Developer
 
-wadfujd4a@mozmail.com
+✉ e11on@icloud.com
 
-h3xx@github ([https://github.com/h3xx](https://github.com/h3xx))
+☁ [ellonm.co]([https://ellonm.co])
 
 Summary
 -------
 
-I'm a software engineer with years of experience coordinating with small to medium-sized teams. I've been on teams doing:
-- Backend and frontend implementation, including database design and planning
-- Incident response and disaster recovery
-- Revamping infrastructure and cloud migration
-- Technical writing and training engineers
+I'm a fullstack developer with both a creative and a data-driven mindset, harmonized by a strong passion in what I do. I thrive on creativity in problem-solving as well as discovery of new ideas and solutions. As such, I have technical experience working with various architectures to undertake diverse tasks, such as:
+- Backend and frontend implementation, including database design and management
+- User experience and user interface research and design
+- End to end, unit and security testing of web applications
+- Data extraction and cleaning for descriptive and predictive analytics 
+- Data visualization and storytelling for information abstraction
+- Machine learning, as well as Deep learning 
 - Project planning and estimation
-- Application security review and testing
 
 Specialities
 ------------
 
-Software Development, Frontend Development, Backend Development, Database
-Architect, Linux System Administration, IT Security
+Frontend Development, Backend Development, Database
+Management, User Interface Design, Data Visualization, Machine Learning
 
 Skills & Expertise
 ------------------
 
 | Skill                           | Experience
 | ------------------------------- | ----------------------------------
-| PHP                             | (Expert, 11 years experience)
-| Laravel                         | (Advanced, 3 years experience)
-| Angular 10                      | (Intermediate, 2 years experience)
-| JavaScript                      | (Advanced, 7 years experience)
-| TypeScript                      | (Advanced, 2 years experience)
-| Bootstrap                       | (Intermediate, 2 years experience)
-| Sass                            | (Intermediate, 3 years experience)
-| CSS 3                           | (Advanced, 7 years experience)
-| Font Awesome                    | (Intermediate, 2 years experience)
-| AJAX API                        | (Advanced, 7 years experience)
-| Twilio                          | (Intermediate, 2 years experience)
-| Google Cloud Platform           | (Beginner, 2 years experience)
-| Amazon SES                      | (Beginner, 2 years experience)
-| PHPUnit                         | (Expert, 6 years experience)
-| Git                             | (Expert, 7 years experience)
-| GitLab CI                       | (Intermediate, 5 years experience)
-| Node.js                         | (Beginner, 1 year experience)
-| Shell Scripting                 | (Expert, 10 years experience)
-| Linux                           | (Expert, 10 years experience)
-| PostgreSQL                      | (Intermediate, 7 years experience)
-| Docker                          | (Beginner, 1 year experience)
-| Ansible                         | (Intermediate, 1 years experience)
-| Perl                            | (Advanced, 6 years experience)
-| SAML 2.0                        | (Expert, 4 years experience)
-| XML                             |
-| HTML                            | (Advanced, 7 years experience)
-| Network Security                |
-| jQuery                          | (Advanced, 7 year experience)
-| XML Schema                      | (Intermediate, 1 year experience)
-| MySQL                           | (Intermediate, 5 years experience)
-| Unix Shell Scripting            | (Expert, 5 years experience)
-| Encryption                      |
-| System Administration           |
-| Linux Server                    |
-| Linux System Administration     |
-| C
+| JavaScript ES6                  | (Expert, 10)
+| TypeScript                      | (Expert)
+| AJAX                            | (Intermediate)
+| CSS 3                           | (Expert)
+| SASS                            | (Advanced)
+| React 16.8 +                    | (Expert)
+| Next.js                         | (Expert)
+| Gatsby                          | (Advanced)
+| Firebase                        | (Advanced)
+| MongoDB                         | (Advanced)
+| Node.js                         | (Expert)
+| Express.js                      | (Expert)
+| Cypress                         | (Advanced)
+| Jest                            | (Advanced)
+| MySQL                           | (Expert)
+| PHP                             | (Advanced)
+| Laravel                         | (Advanced)
+| Python 3                        | (Expert, 10)
+| Julia                           | (Advanced)
+| R                               | (Expert)
+| Jupyter Notebooks               | (Expert)
+| NumPy, Pandas                   | (Advanced)
+| Plotly, Matplotlib              | (Expert)
+| Dash                            | (Advanced)
+| Tensorflow                      | (Intermediate)
+| Pytorch                         | (Advanced)
+| Pytest                          | (Beginner)
+| C / C++                         | (Beginner)
+| Java                            | (Intermediate)
+| Linux                           | (Advanced)
+| Shell scripting                 | (Beginner)
+| Vim                             | (Intermediate)
+| Git                             | (Advanced)
+| Docker                          | (Advanced)
+| Circle CI                       | (Intermediate)
 
 Experience
 ----------
 
-**Technical Support Engineer, Nagios, Inc.**
+**Freelance Fullstack Developer, Upwork.**
 
-September 2020 - Present
+January 2022 - Present
 
-* Remotely debugging and diagnosing issues with Nagios products, including LAMP
-  stack, and ELK stack (Elasticsearch, Logstash, Kibana) applications
-* Management of client relations using written and verbal communication
-* Coordination with 35-member team over SalesForce
+* Improving web application structure and search engine visibility for clients
+* Developing and integrating new features in both frontend and backend scopes of web applications
+* Designing application user interfaces as well as conducting research to improve the user experience as per the application's main audience
 
-**Software Engineer, G2Planet, Inc.**
-
-October 2013 - August 2020 *(7 years)*
-
-* Lead developer on EventMAX and EventCENTRAL platforms using PHP 7, Laravel,
-  PostgreSQL, SAML 2.0, Angular 8, Bootstrap, Docker, and Kubernetes
-* Implemented internal single sign-on (SSO) system using SAML 2.0, PHP 7,
-  Laravel, PostgreSQL, Angular 8, Bootstrap, Font Awesome, and REST API's
-* Coordination with 17 member team, including training
-* Experience with Angular 8, Kubernetes, GitLab CI, Laravel 5.3, PHP, Docker,
-  Google Cloud Platform, Amazon SES
-
-**Database Development and Management Specialist at Custom Exteriors of
-Wisconsin, Inc.**
-
-August 2009 - March 2010 *(8 months)*
-
-* Supervised the upgrade and implementation of the company's existing database
-* Oversaw the development of a comprehensive intranet-based data entry
-  interface for internal company use
-* Wrote and revised technical manuals and employee training programs for the
-  new software infrastructure
-
-**APS/Tech Support at Winner, Wixson & Pernitz**
-
-March 2009 - August 2009 *(6 months)*
-
-* Data entry of invoices and hand-written work
-* Managed a complex database of legal client information and billing records
-* Learned and improved the existing accounts payable digital infrastructure
-* Built a replacement database in Microsoft Access, with linked tables and a
-  Visual Basic user interface
-
-**Outside Technical Consultant at Custom Exteriors of Wisconsin, Inc.**
-January 2009 - March 2009 *(3 months)*
-
-* Oversaw the design and launch of a large-scale database to store financial
-  and work records for thousands of customers and employees
-
-**Web Portal Contact Training Specialist at University of Wisconsin-Madison**
-
-July 2008 - January 2009 *(7 months)*
-
-* Chief designer and developer of a complex website to convey a multitude of
-  safety and medical information
-* Supervised the design of an intuitive and sleek website layout
-* Employed advanced graphic and video presentation techniques to a wide range
-  of multimedia for use in a web-based setting
-* Used digital photography and image manipulation techniques to convey
-  information to a wide audience of hundreds of university workers
-* Employed HTML, CSS and object-oriented JavaScript to create an intuitive user
-  experience
 
 Technical Experience
 --------------------
 
 Open Source
 
-* Avid contributor on GitHub @h3xx ([https://github.com/h3xx](https://github.com/h3xx))
-* StackOverflow: 10 years contributing, top 2% overall ([https://stackoverflow.com/users/237955](https://stackoverflow.com/users/237955))
+* Frequent contributor on GitHub &nbsp; [@Ellon-M](https://github.com/Ellon-M)
+* StackOverflow: 2 years contributing &nbsp; [@Ellon](https://stackoverflow.com/users/16120597)
 
-Courses
+Data Science
+
+* Kaggle contributor and active participant in data science competitions
+* Hackathon and competition participant for 1 year on Zindi
+
+Courses & Certifications
 -------
 
-**Computer Software Engineering**
+**Certificate in Data Science**
 
-Dunwoody College of Technology
+Strathmore University
 
-* C# Application Development
-* Intro to XML
+* Data Storytelling, Feature Engineering, Statistical Analysis
+* Intro to Machine Learning and Predictive Analysis
 
-**Computer Science**
+**CCNA: Introduction to Computer Networks**
 
-University of Wisconsin-River Falls
+Cisco
 
-* Data Structures and Algorithms	CSIS237
-* Computer Organization and x86 Assembly	CSIS355
-* Database Management Systems	CSIS333
-* Artificial Intelligence	CSIS451
-* Operating Systems	CSIS429
+* LAN Switching Technologies
+* Routing Technologies
+* Infrastructure Security
+* Infrastructure Management
+
 
 Education
 ---------
 
-**University of Wisconsin-River Falls**
+**Strathmore University**
 
-Computer Science, 2003 - 2007
+Diploma in Business and Information Technology, &nbsp; 2020 - 2021
 
-**Dunwoody College of Technology**
+* Data Structures and Algorithms
+* Software Engineering
+* System Analysis and Design
+* Web Application Development
+* Database Systems
+* Computer Networks
 
-Computer Software Engineering, 2012
+**Strathmore School**
 
-Interests
+KCSE (O-Level) &nbsp; Grade: 77, A- &nbsp; 2016 - 2019
+
+Qualities
 ---------
 
-Linux, open source, GitHub, social networking, sound engineering
+Passionate, self-driven, fast-learner, curious
 
 
-Dan Church
+&nbsp;
 
-Computer Software Professional
+Ellon Mordecai
 
-wadfujd4a@mozmail.com
+Fullstack Developer
 
-Source: [https://github.com/h3xx/resume](https://github.com/h3xx/resume)
+✉ e11on@icloud.com
+
+☁ [ellonm.co]([https://ellonm.co])
+
+[Source here](https://github.com/h3xx/resume)
