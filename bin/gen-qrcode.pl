@@ -13,7 +13,7 @@ use constant QR_PIXEL_DIM => 6;
 # how many image pixels to pad the qrcode in
 use constant PADDING => 8;
 use constant T_PADDING => 3;
-use constant URL => 'https://h3xx.github.io/resume';
+use constant URL => 'https://ellon-m.github.io/e.res';
 
 sub qrcode_svg {
     my %opts = (
