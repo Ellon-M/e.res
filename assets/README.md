@@ -5,7 +5,7 @@ Junior Fullstack Developer
 
 ✉ e11on@icloud.com
 
-☁ [ellonm.co]([https://ellonm.co])
+☁ [ellonm.com](https://ellonm.com)
 
 Summary
 -------
@@ -42,6 +42,7 @@ Skills & Expertise
 | MongoDB                         | (Advanced)
 | Node.js                         | (Expert)
 | Express.js                      | (Expert)
+| GraphQL                         | (Advanced)
 | Cypress                         | (Advanced)
 | Jest                            | (Advanced)
 | MySQL                           | (Expert)
@@ -143,6 +144,6 @@ Fullstack Developer
 
 ✉ e11on@icloud.com
 
-☁ [ellonm.co]([https://ellonm.co])
+☁ [ellonm.com](https://ellonm.com)
 
 [Source here](https://github.com/Ellon-M/e.res/)
