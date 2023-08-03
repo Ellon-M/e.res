@@ -1,29 +1,26 @@
 Ellon Mordecai
 ==========
 
-Junior Fullstack Developer
+Fullstack Developer
 
-✉ e11on@icloud.com
+✉ mordecellon@gmail.com
 
-☁ [ellonm.com](https://ellonm.com)
+☁ [ellon.netlify.app](https://ellon.netlify.app/)
 
 Summary
 -------
 
-I'm a fullstack developer with both a creative and a data-driven mindset, harmonized by a strong passion in what I do. I thrive on creativity in problem-solving as well as discovery of new ideas and solutions. As such, I have technical experience working with various architectures to undertake diverse tasks, such as:
+I'm a fullstack developer with a creative mindset, harmonized by a strong passion in what I do. I thrive on creativity in problem-solving as well as discovery of new ideas and solutions. As such, I have technical experience working with various architectures to undertake diverse tasks, highlighting:
 - Backend and frontend implementation, including database design and management
-- User experience and user interface research and design
 - End to end, unit and security testing of web applications
-- Data extraction and cleaning for descriptive and predictive analytics 
-- Data visualization and storytelling for information abstraction
-- Machine learning, as well as Deep learning 
+- Application optimization for performance and scalabilty
 - Project planning and estimation
 
 Specialities
 ------------
 
 Frontend Development, Backend Development, Database
-Management, User Interface Design, Data Visualization, Machine Learning
+Management, DevOps
 
 Skills & Expertise
 ------------------
@@ -32,40 +29,22 @@ Skills & Expertise
 | ------------------------------- | ----------------------------------
 | JavaScript ES6                  | (Expert, 10)
 | TypeScript                      | (Expert)
-| AJAX                            | (Intermediate)
-| CSS 3                           | (Expert)
-| SASS                            | (Advanced)
-| React 16.8 +                    | (Expert)
+| HTML, CSS 3                     | (Expert, 10)
+| SASS                            | (Expert, 10)
+| React JS                        | (Expert, 10)
 | Next.js                         | (Expert)
-| Gatsby                          | (Advanced)
-| Firebase                        | (Advanced)
-| MongoDB                         | (Advanced)
+| MongoDB                         | (Expert)
 | Node.js                         | (Expert)
-| Express.js                      | (Expert)
 | GraphQL                         | (Advanced)
-| Cypress                         | (Advanced)
-| Jest                            | (Advanced)
-| MySQL                           | (Expert)
 | PHP                             | (Advanced)
 | Laravel                         | (Advanced)
 | Python 3                        | (Expert, 10)
 | Julia                           | (Advanced)
 | R                               | (Expert)
-| Jupyter Notebooks               | (Expert)
-| NumPy, Pandas                   | (Advanced)
-| Plotly, Matplotlib              | (Expert)
-| Dash                            | (Advanced)
-| Tensorflow                      | (Intermediate)
-| Pytorch                         | (Advanced)
-| Pytest                          | (Beginner)
-| C / C++                         | (Beginner)
-| Java                            | (Intermediate)
-| Linux                           | (Advanced)
-| Shell scripting                 | (Beginner)
-| Vim                             | (Intermediate)
-| Git                             | (Advanced)
-| Docker                          | (Advanced)
-| Circle CI                       | (Intermediate)
+| Linux                           | (Expert, 10)
+| Git                             | (Expert, 10)
+| Docker                          | (Expert)
+| Kubernetes                      | (Expert)
 
 Experience
 ----------
@@ -84,8 +63,8 @@ Technical Experience
 
 Open Source
 
-* Frequent contributor on GitHub &nbsp; [@Ellon-M](https://github.com/Ellon-M)
-* StackOverflow: 2 years contributing &nbsp; [@Ellon](https://stackoverflow.com/users/16120597)
+* Frequent open source contributor on GitHub &nbsp; [@Ellon-M](https://github.com/Ellon-M)
+* StackOverflow: 3 years contributing &nbsp; [@Ellon](https://stackoverflow.com/users/16120597)
 
 Data Science
 
@@ -115,9 +94,19 @@ Cisco
 Education
 ---------
 
+**Microverse**
+
+Full Stack Web Development, Computer Software Engineering, &nbsp; 2022 - 2023
+
+* Frontend Development (Javascript)
+* Backend Development (Ruby on Rails)
+* API Documentation 
+* Mentoring  
+* Pair Programming
+
 **Strathmore University**
 
-Diploma in Business and Information Technology, &nbsp; 2020 - 2021
+Business and Information Technology, &nbsp; 2019 - 2021
 
 * Data Structures and Algorithms
 * Software Engineering
@@ -142,8 +131,8 @@ Ellon Mordecai
 
 Fullstack Developer
 
-✉ e11on@icloud.com
+✉ mordecellon@gmail.com
 
-☁ [ellonm.com](https://ellonm.com)
+☁ [ellon.netlify.app](https://ellon.netlify.app/)
 
 [Source here](https://github.com/Ellon-M/e.res/)
