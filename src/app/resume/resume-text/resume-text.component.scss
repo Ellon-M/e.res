@@ -1,14 +1,20 @@
 @import "node_modules/bootstrap/scss/functions";
 @import "node_modules/bootstrap/scss/variables";
 @import "node_modules/bootstrap/scss/mixins/_breakpoints";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700&display=swap');
 
 $qrcode-width: 115px;
 $qrcode-width-md: $qrcode-width * 0.75;
 $qrcode-width-sm: $qrcode-width * 0.5;
 
 a {
-    color: white;
-    text-decoration: none;
+    color: #472425 !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #2b1415 !important;
+    text-decoration: none !important;
 }
 
 footer {
@@ -23,7 +29,7 @@ footer {
 
 .qr {
     float: right;
-    background-color: #eeeeee;
+    background-color: #fff;
     // Move out from under "Fork Me"
     margin: 15px;
     max-width: $qrcode-width;
@@ -45,7 +51,8 @@ footer {
 ngx-md {
     display: block;
     font-size: 16px;
-    color: #d0d0d0;
+    color: #472425;
+    font-family: 'Inter', sans-serif;
 
     h1, h2, h3, h4, h5, h6 {
         margin-top: 24px;
@@ -54,7 +61,7 @@ ngx-md {
         line-height: 1.25
     }
     h1, h2 {
-        border-bottom: 1px solid #eaecef;
+        border-bottom: 1px solid #472425;
     }
     h1 {
         padding-bottom: 0.3em;
@@ -87,16 +94,16 @@ ngx-md {
         border-spacing: 0;
 
         tr {
-            background-color: #2f2f2f;
-            border-top: 1px solid #c6cbd1;
+            background-color: #f7efe1;
+            border-top: 1px solid #472425;
 
             &:nth-child(2n) {
-                background-color: #262626;
+                background-color: #fdfaf3;
             }
         }
 
         th, td {
-            border: 1px solid #9b9b9b;
+            border: 1px solid #472425;
             padding: 6px 13px;
         }
     }

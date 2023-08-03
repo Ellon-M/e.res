@@ -26,11 +26,11 @@
 @media only screen {
     @include media-breakpoint-up(md) {
         .lighter-wrap {
-            background: #121212;
+            background: #fdfaf3;
         }
         ::ng-deep body {
             // background-image: url(images/bbg.jpg);
-            background: black;
+            background: #fdfaf3;
         }
         .container {
             // make clicking <=> scrolling work properly in the nav
@@ -38,7 +38,7 @@
         }
 
         .res-comp {
-            background: #1c1c1c !important;
+            background: #fff !important;
         }
 
         // TODO these are more sorely missing class from the Bootstrap library
