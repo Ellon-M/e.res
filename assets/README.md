@@ -106,7 +106,7 @@ Full Stack Web Development, Computer Software Engineering, &nbsp; 2022 - 2023
 
 **Strathmore University**
 
-Business and Information Technology, &nbsp; 2019 - 2021
+Business and Information Technology (DBIT), &nbsp; 2020 - 2021
 
 * Data Structures and Algorithms
 * Software Engineering
