@@ -10,48 +10,42 @@ Fullstack Developer
 Summary
 -------
 
-I'm a fullstack developer with a creative mindset, harmonized by a strong passion in what I do. I thrive on creativity in problem-solving as well as discovery of new ideas and solutions. As such, I have technical experience working with various architectures to undertake diverse tasks, highlighting:
-- Backend and frontend implementation, including database design and management
-- End to end, unit and security testing of web applications
-- Application optimization for performance and scalabilty
-- Project planning and estimation
+I'm a Fullstack Developer with 4+ years of professional experience in the industry. As such, I have technical skills in working with various architectures to undertake diverse tasks, highlighting:
+- Backend and frontend web application development, including database design and management.
+- End to end, unit and security testing of web applications.
+- Native/Mobile Application Development.
+- Platform Engineering/DevOps.
 
-Specialities
-------------
-
-Frontend Development, Backend Development, Database
-Management, DevOps
-
-Skills & Expertise
-------------------
-
-| Skill                           | Experience
-| ------------------------------- | ----------------------------------
-| JavaScript ES6                  | (Expert, 10)
-| TypeScript                      | (Expert)
-| HTML, CSS 3                     | (Expert, 10)
-| SASS                            | (Expert, 10)
-| React JS                        | (Expert, 10)
-| Next.js                         | (Expert)
-| MongoDB                         | (Expert)
-| Node.js                         | (Expert)
-| GraphQL                         | (Advanced)
-| PHP                             | (Advanced)
-| Laravel                         | (Advanced)
-| Python 3                        | (Expert, 10)
-| Julia                           | (Advanced)
-| R                               | (Expert)
-| Linux                           | (Expert, 10)
-| Git                             | (Expert, 10)
-| Docker                          | (Expert)
-| Kubernetes                      | (Expert)
-
-Experience
+Professional Experience
 ----------
+
+**Software Development Consultancy, Alfabiz.**
+
+June 2025 - Present
+
+* Backend API Development.
+* Frontend Design and Development.
+* Unit & E2E testing.
+
+**Software Development Consultancy, Edmor Group.**
+
+February 2025 - Present
+
+* UX/UI Design. Wordpress Development.
+* SEO Optimization.
+* Backend API Development.
+
+**Lead Software Developer, Semasocial.**
+
+September 2023 - Present
+
+* Building backend API architectures.
+* Integrating third party plugins, middlewares and APIs.
+* Designing the application graphical user interface.
 
 **Freelance Fullstack Developer, Upwork.**
 
-January 2022 - Present
+January 2022 - September 2023
 
 * Improving web application structure and search engine visibility for clients
 * Developing and integrating new features in both frontend and backend scopes of web applications
@@ -64,14 +58,29 @@ Technical Experience
 Open Source
 
 * Frequent open source contributor on GitHub &nbsp; [@Ellon-M](https://github.com/Ellon-M)
-* StackOverflow: 3 years contributing &nbsp; [@Ellon](https://stackoverflow.com/users/16120597)
 
-Data Science
+Data Science, ML and AI
 
-* Kaggle contributor and active participant in data science competitions
+* EX Kaggle Competitor
 * Hackathon and competition participant for 1 year on Zindi
 
-Courses & Certifications
+
+Education
+---------
+
+**Strathmore University**
+
+Business and Information Technology (DBIT), &nbsp; 2020 - 2022
+
+* Data Structures and Algorithms
+* Software Engineering
+* System Analysis and Design
+* Web Application Development
+* Database Systems
+* Computer Networks
+
+
+Certifications
 -------
 
 **Certificate in Data Science**
@@ -80,19 +89,6 @@ Strathmore University
 
 * Data Storytelling, Feature Engineering, Statistical Analysis
 * Intro to Machine Learning and Predictive Analysis
-
-**CCNA: Introduction to Computer Networks**
-
-Cisco
-
-* LAN Switching Technologies
-* Routing Technologies
-* Infrastructure Security
-* Infrastructure Management
-
-
-Education
----------
 
 **Microverse**
 
@@ -104,25 +100,20 @@ Full Stack Web Development, Computer Software Engineering, &nbsp; 2022 - 2023
 * Mentoring  
 * Pair Programming
 
-**Strathmore University**
+**CCNA: Introduction to Computer Networks**
 
-Business and Information Technology (DBIT), &nbsp; 2020 - 2021
+Cisco
 
-* Data Structures and Algorithms
-* Software Engineering
-* System Analysis and Design
-* Web Application Development
-* Database Systems
-* Computer Networks
+* LAN Switching Technologies
+* Routing Technologies
+* Infrastructure Security
+* Infrastructure Management
 
-**Strathmore School**
-
-KCSE (O-Level) &nbsp; Grade: 77, A- &nbsp; 2016 - 2019
-
-Qualities
+Referees
 ---------
 
-Passionate, self-driven, fast-learner, curious
+* Robert Mwanzia, Sr. Systems Administrator (_CAK_) - 0726 365 656
+* Dominic Okinyi, CEO (_Alfabiz Informatics_)       - 0735 973 206
 
 
 &nbsp;
